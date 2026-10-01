@@ -29,7 +29,7 @@ Formula 1 performance data is often stored across multiple datasets, making it d
 - Prototyped the dashboard layout with Pivot Tables and charts to map out performance trends before building in Power BI. This gave me an idea which visuals were worth building before investing time in the full dashboard. More advanced metrics (win %, podium rate, gap intervals) were built later in DAX
 
 <p align="center">
-  <img src="https://cdn.phototourl.com/free/2026-07-24-b25c60eb-8342-4419-b105-e875459af575.png"">
+  <img src="https://i.postimg.cc/t4cqywvH/exfel.png"">
 </p>
 
 **Phase 2: Power BI Dashboard & Visuals**
