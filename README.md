@@ -1,7 +1,7 @@
 # 2021 Formula 1 Performance Analytics Dashboard
 
 <p align="center">
-  <img src="https://cdn.phototourl.com/free/2026-07-24-0a8a08b7-464e-4b18-981b-51b64ed7e5e4.png" alt="Formula 1 Logo" width="300">
+  <img src="https://pictureurl.com/api/storage/file?key=u%2Fanon%2Fd27a370a-e7b5-42d8-a1cd-80eeaf1fb89f-logo.png" alt="Formula 1 Logo" width="300">
 </p>
 
 <p align="center">
@@ -39,7 +39,8 @@ Formula 1 performance data is often stored across multiple datasets, making it d
 - Built a track visual that updates the circuit map and stats based on slicer selection
 - Consolidated all metrics into a single dashboard view spanning the full 22 race season
 
-![Logo](https://cdn.phototourl.com/free/2026-07-24-dec9fe36-32d0-4a9c-baf7-0733dcd0e20b.png)
+
+![Logo](https://pictureurl.com/api/storage/file?key=u%2Fanon%2Fcafeface-3e69-4828-801b-cf536b10135a-Base_Dashboard.PNG)
 
 ## 4. Skills Demonstrated
 
